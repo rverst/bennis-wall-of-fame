@@ -1,0 +1,9 @@
+[submodule "bwof-backend"]
+	path = bwof-backend
+	url = git@github.com:rverst/bwof-backend
+[submodule "bwof-viewer-page"]
+	path = bwof-viewer-page
+	url = git@github.com:rverst/bwof-viewer-page
+[submodule "bwof-upload-page"]
+	path = bwof-upload-page
+	url = git@github.com:rverst/bwof-upload-page
